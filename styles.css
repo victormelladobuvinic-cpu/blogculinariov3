@@ -84,6 +84,7 @@ body {
 
 #gradient {
     background: linear-gradient(#b08968, #ede0d4);
+    width: 100%;
 }
 
 .guide-content {
@@ -108,3 +109,4 @@ body {
 
 
 }
+
